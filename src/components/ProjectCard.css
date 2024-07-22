@@ -1,0 +1,13 @@
+/* ProjectCard.css */
+.project-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem;
+    width: 300px;
+  }
+  
+  .project-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
